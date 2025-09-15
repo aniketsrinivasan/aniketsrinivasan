@@ -12,6 +12,8 @@ Machine learning engineer & researcher with experience building AI-native produc
 * **Bradbury Group** -- Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
 * **Unleash Networks** -- Machine learning for time-series analysis, prediction, and unsupervised anomaly detection for DoS/DDoS attacks.
 
+I also work on various small-scale projects in AI engineering, LLM research, and neural network compute kernels. 
+
 ## Publications
 TBD
 
