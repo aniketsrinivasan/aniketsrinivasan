@@ -12,7 +12,7 @@ Undergraduate student with experience building AI products, researching generati
 * **[Bradbury Group](https://bradburygroup.org/)** — Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
 * **[Unleash Networks](https://www.trisul.org/blog/deep-learning-network-monitoring/)** — Machine learning for time-series analysis, prediction, and unsupervised anomaly detection for DoS/DDoS attacks.
 
-I also work on various small-scale projects in AI engineering, LLM research, and neural network compute kernels. 
+I also work on various small-scale independent projects in AI engineering, LLM research, and neural network compute kernels. 
 
 ## Publications
 1. **"DCR: Fast and Stable Module Replacement in Pretrained Transformers."** @ [NeurIPS 2025 Workshop]\
