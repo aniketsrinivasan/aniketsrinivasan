@@ -15,7 +15,8 @@ Machine learning engineer & researcher with experience building AI-native produc
 I also work on various small-scale projects in AI engineering, LLM research, and neural network compute kernels. 
 
 ## Publications
-TBD
+1. **"DCR: Fast and Stable Module Replacement in Pretrained Transformers."** @ [NeurIPS 2025 Workshop]\
+_R Bradbury, **A Srinivasan Ashok**, S R Kasanagottu, G Jhingran, S Meng._
 
 ## Contact
 Feel free to reach me on LinkedIn at https://www.linkedin.com/aniket-srinivasan-ashok.
