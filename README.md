@@ -4,7 +4,7 @@ Data Science and Pure Maths @ University of Waterloo
 
 ## About 
 
-Student with experience building AI-native products, researching generative AI algorithms and architectures (computer vision and natural language processing), and developing scalable backend systems. Also interested in general computer science, software engineering, and pure mathematics. 
+Undergraduate student with experience building AI products, researching generative AI algorithms and architectures (CV and NLP), and developing scalable backend systems. Also interested in general computer science, software engineering, and pure mathematics. 
 
 ## Experience 
 * **Stealth Startup** — Built backend for AI application from scratch, including agentic AI systems, knowledge retrieval systems, data generation and storage pipelines, and language model fine-tuning algorithms.
