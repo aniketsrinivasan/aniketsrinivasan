@@ -8,9 +8,9 @@ Student with experience building AI-native products, researching generative AI a
 
 ## Experience 
 * **Stealth Startup** — Built backend for AI application from scratch, including agentic AI systems, knowledge retrieval systems, data generation and storage pipelines, and language model fine-tuning algorithms.
-* **VIP Lab @ UWaterloo** — Researched conditional diffusion models for the generation and super-resolution of high-quality wind dynamics.
-* **Bradbury Group** — Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
-* **Unleash Networks** — Machine learning for time-series analysis, prediction, and unsupervised anomaly detection for DoS/DDoS attacks.
+* **[VIP Lab @ UWaterloo](https://vip.uwaterloo.ca)** — Researched conditional diffusion models for the generation and super-resolution of high-quality wind dynamics.
+* **[Bradbury Group](https://bradburygroup.org/)** — Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
+* **[Unleash Networks](https://www.trisul.org/blog/deep-learning-network-monitoring/)** — Machine learning for time-series analysis, prediction, and unsupervised anomaly detection for DoS/DDoS attacks.
 
 I also work on various small-scale projects in AI engineering, LLM research, and neural network compute kernels. 
 
