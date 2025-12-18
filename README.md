@@ -16,8 +16,10 @@ Undergraduate student with experience building AI products, researching generati
 I also work on various small-scale independent projects in AI engineering, LLM research, and neural network compute kernels. 
 
 ## Publications
-1. **"DCR: Fast and Stable Module Replacement in Pretrained Transformers."** @ [NeurIPS 2025 Workshop]\
-_R Bradbury, **A Srinivasan Ashok**, S R Kasanagottu, G Jhingran, S Meng._
+1. [**"DCR: Fast and Stable Module Replacement in Pretrained Transformers"**](https://arxiv.org/abs/2511.18670) [NeurIPS 2025 Workshop] \
+   Rowan Bradbury, **_Aniket Srinivasan Ashok_**, Sai Ram Kasanagottu, Gunmay Jhingran, Shuai Meng
+3. [**"Composite Classifier-Free Guidance for Multi-Modal Conditioning in Wind Dynamics Super-Resolution"**](https://arxiv.org/abs/2512.13729) \
+   Jacob Schnell, Aditya Makkar, Gunadi Gani, **_Aniket Srinivasan Ashok_**, Darren Lo, Mike Optis, Alexander Wong, Yuhao Chen
 
 ## Contact
 Feel free to reach me on LinkedIn at https://www.linkedin.com/aniket-srinivasan-ashok.
