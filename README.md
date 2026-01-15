@@ -7,7 +7,7 @@ Data Science and Pure Maths @ University of Waterloo
 Undergraduate student with experience building AI products, researching generative AI algorithms and architectures (CV and NLP), and developing scalable backend systems. Also interested in general computer science, software engineering, and pure mathematics. 
 
 ## Experience 
-* **[Viggle AI](https://viggle.ai/about-us)** - Product engineering, algorithms, and data. 
+* **[Viggle AI](https://viggle.ai/about-us)** - Product engineering, applied ML algorithms, and data. 
 * **[CaseClock AI](https://caseclock.ai/)** — Built backend for AI application from scratch, including agentic AI systems, knowledge retrieval systems, data generation and storage pipelines, and language model fine-tuning algorithms.
 * **[VIP Lab @ UWaterloo](https://vip.uwaterloo.ca)** — Researched conditional diffusion models for the generation and super-resolution of high-quality wind dynamics.
 * **[Bradbury Group](https://bradburygroup.org/)** — Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
