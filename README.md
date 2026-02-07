@@ -4,7 +4,7 @@ Data Science and Pure Maths @ University of Waterloo
 
 ## About 
 
-Undergraduate student with experience building AI products, researching generative AI algorithms and architectures (CV and NLP), and developing scalable backend systems. Also interested in general computer science, software engineering, and pure mathematics. 
+Undergraduate student with experience building AI products, researching ML algorithms and architectures, and developing scalable infrastructure. Interested in ML research/infrastructure and pure mathematics.
 
 ## Experience 
 * **[Viggle AI](https://viggle.ai/about-us)** - Some product engineering, some algorithm design, and some data things. 
