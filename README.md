@@ -22,4 +22,4 @@ I also work on various small-scale independent projects in AI engineering, LLM r
    Jacob Schnell, Aditya Makkar, Gunadi Gani, **_Aniket Srinivasan Ashok_**, Darren Lo, Mike Optis, Alexander Wong, Yuhao Chen
 
 ## Contact
-Feel free to reach me on LinkedIn at https://www.linkedin.com/aniket-srinivasan-ashok.
+Feel free to reach me on LinkedIn at https://www.linkedin.com/in/aniket-srinivasan-ashok.
