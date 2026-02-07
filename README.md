@@ -7,11 +7,11 @@ Data Science and Pure Maths @ University of Waterloo
 Undergraduate student with experience building AI products, researching ML algorithms and architectures, and developing scalable infrastructure. Interested in ML research/infrastructure and pure mathematics.
 
 ## Experience 
-* **[Viggle AI](https://viggle.ai/about-us)** - Some product engineering, some algorithm design, and some data things. 
-* **[CaseClock AI](https://caseclock.ai/)** — Built backend for AI application from scratch, including agentic AI systems, knowledge retrieval systems, data generation and storage pipelines, and language model fine-tuning algorithms.
-* **[VIP Lab @ UWaterloo](https://vip.uwaterloo.ca)** — Researched conditional diffusion models for the generation and super-resolution of high-quality wind dynamics.
-* **[Bradbury Group](https://bradburygroup.org/)** — Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
-* **[Unleash Networks](https://www.trisul.org/blog/deep-learning-network-monitoring/)** — Machine learning for time-series analysis, prediction, and unsupervised anomaly detection for DoS/DDoS attacks.
+* Member of Technical Staff Intern @ **[Viggle AI](https://viggle.ai/about-us)** - Some product engineering, some algorithm design, and some data things. 
+* Software Engineer Intern (Founding Team) @ **[CaseClock AI](https://caseclock.ai/)** — Built backend for AI application from scratch, including agentic AI systems, knowledge retrieval systems, data generation and storage pipelines, and language model fine-tuning algorithms.
+* ML Researcher (Part-Time) @ **[VIP Lab, University of Waterloo](https://vip.uwaterloo.ca)** — Researched conditional diffusion models for the generation and super-resolution of high-quality wind dynamics.
+* ML Researcher (Part-Time) @ **[Bradbury Group](https://bradburygroup.org/)** — Developed dynamic module-replacement tools for FLUX and Llama for efficient architecture search; researched stable pre-trained Transformer-based model distillation algorithms.
+* ML Engineer Intern @ **[Unleash Networks](https://www.trisul.org/blog/deep-learning-network-monitoring/)** — Machine learning for time-series analysis, prediction, and unsupervised anomaly detection for DoS/DDoS attacks.
 
 I also work on various small-scale independent projects in AI engineering, LLM research, and neural network compute kernels. 
 
