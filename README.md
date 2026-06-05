@@ -7,6 +7,7 @@ Data Science and Pure Maths @ University of Waterloo
 Undergraduate student with experience building AI products, researching ML algorithms and architectures, and developing scalable infrastructure. Interested in ML research/infrastructure and pure mathematics.
 
 ## Experience 
+* ML Platform Engineer Intern @ **[Faire](https://faire.com/)
 * Member of Technical Staff Intern @ **[Viggle AI](https://viggle.ai/about-us)** - Some product engineering, some algorithm design, and some data things. 
 * Software Engineer Intern (Founding Team) @ **[CaseClock AI](https://caseclock.ai/)** — Built backend for AI application from scratch, including agentic AI systems, knowledge retrieval systems, data generation and storage pipelines, and language model fine-tuning algorithms.
 * ML Researcher (Part-Time) @ **[VIP Lab, University of Waterloo](https://vip.uwaterloo.ca)** — Researched conditional diffusion models for the generation and super-resolution of high-quality wind dynamics.
