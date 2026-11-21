@@ -2,4 +2,4 @@
 
 data science @ uwaterloo
 
-see aniketsrinivasan.github.io for more :)
+see [my page](https://aniketsrinivasan.github.io) for more :)
